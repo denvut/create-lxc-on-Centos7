@@ -1,6 +1,6 @@
 # create-lxc-on-Centos7
 how to use:
-
+copy yum.sh create_lxc.sh into vm-server(ex: lab-mg0)
 first step:
   add all packeges in yum.sh what you want install in lxc
   example: 
