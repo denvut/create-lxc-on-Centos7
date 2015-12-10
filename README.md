@@ -12,8 +12,8 @@ first step:
   
 second step: 
   run in vm-server create_lxc.sh with params Host name and cidr: 
+  
       bash create_lxc.sh acs-test2 172.16.0.202/21
-      
 
 
   
